@@ -12,4 +12,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anjoy8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MVP](http://apk.neters.club/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_72ppi.png)](https://mvp.microsoft.com/zh-cn/PublicProfile/5003704?fullName=anson%20zhang)
+[![MVP](http://apk.neters.club/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_72ppi.png)](https://docs.microsoft.com/zh-cn/dotnet/fundamentals/?WT.mc_id=DOP-MVP-5003704)
