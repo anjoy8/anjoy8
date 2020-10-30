@@ -4,6 +4,8 @@
 - 🔭 I’m Anson Zhang .
 - 🌱 I'm a software engineer .
 - 👯 The main technology stack is: NetCore+ VUE .
+- 📃 Read my blog1 : https://www.cnblogs.com/laozhang-is-phi/ .
+- 📃 Read my wechat article : https://mvp.neters.club/ .
 - 💬 Ask me about: https://neters.club
 - 📫 How to reach me: laozhang@azlinli.com
 
