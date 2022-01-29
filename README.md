@@ -7,6 +7,7 @@
 - 👒 Read my blog1 : https://www.cnblogs.com/laozhang-is-phi/ .
 - 📃 Read my wechat article : https://mvp.neters.club/ .
 - 💬 Ask me about: https://neters.club
+- 📕《ASP.NET Core 5.0开发入门与实战》: https://item.jd.com/13593742.html
 - 📫 How to reach me: laozhang@azlinli.com
 
 
