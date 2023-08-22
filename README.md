@@ -12,7 +12,8 @@
 
   
 ********************  
-   
+
+   [![Follow me](https://img.shields.io/github/followers/anjoy8?label=Follow&style=social)](https://github.com/anjoy8)
 
 [![Anurag's github stats](https://github-profile-trophy.vercel.app/?username=anjoy8&title=Star,Follower,Commit,Issue&theme=chartreuse-dark)](https://github.com/anjoy8)   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anjoy8&langs_count=8&hide=&exclude_repo=Shopsnweb-xf)](https://github-readme-stats.vercel.app)    
